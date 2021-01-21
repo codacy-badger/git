@@ -1,4 +1,5 @@
 [![Build status](https://github.com/git/git/workflows/CI/PR/badge.svg)](https://github.com/git/git/actions?query=branch%3Amaster+event%3Apush)
+![Test](https://github.com/semantic-release/git/workflows/Test/badge.svg?branch=dependabot%2Fnpm_and_yarn%2Fini-1.3.7)
 
 Git - fast, scalable, distributed revision control system
 =========================================================
